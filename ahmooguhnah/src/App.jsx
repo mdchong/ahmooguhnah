@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <h1>Hello</h1>
-      <p>My name is Michelle</p>
+      <p>My name is Daniel</p>
     </>
   )
 }
